@@ -1,0 +1,8 @@
+{
+  "name": "react-native-paper-redux-template",
+  "version": "0.0.1",
+  "description": "React Native Paper Redux Template",
+  "repository": "https://github.com/KevMac19/rn-paper-redux-template.git",
+  "author": "Kevin Macwan <kmacwan86@gmail.com>",
+  "license": "MIT"
+}

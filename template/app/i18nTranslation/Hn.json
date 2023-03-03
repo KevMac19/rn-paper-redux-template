@@ -1,0 +1,13 @@
+{
+  "demo_screen": {
+    "demo_data": "डेमो",
+    "title": "डेमो",
+    "change_login_status": "लॉगिन स्थिति बदलें",
+    "login_status": "लॉगिन स्थिति",
+    "get_data": "डेटा प्राप्त करें",
+    "phone_login": "फोन लॉगिन"
+  },
+  "condition": {
+    "en": "Change Language to English"
+  }
+}

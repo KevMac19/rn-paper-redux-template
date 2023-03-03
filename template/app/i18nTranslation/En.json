@@ -1,0 +1,13 @@
+{
+  "demo_screen": {
+    "demo_data": "Demo Data",
+    "title": "Demo Screen",
+    "change_login_status": "Change Login Status",
+    "login_status": "Login Status",
+    "get_data": "Get Data",
+    "phone_login": "Phone Login"
+  },
+  "condition": {
+    "hn": "Change Language to Hindi"
+  }
+}
